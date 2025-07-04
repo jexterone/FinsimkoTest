@@ -15,12 +15,10 @@ This is a technical assessment project for a simulation game between two teams. 
 FinsimkoTest/
 ├── backend/
 │   ├── cli_simulator.py              # CLI for Simulation Game 1
-│   ├── cli_simulator_2.py           # CLI for Simulation Game 2
 │   ├── backend_api_simulation.py    # Flask API
 │   ├── db_init.sql                  # SQL schema
 │   ├── .env                         # PostgreSQL connection settings
-│   ├── requirements.txt             # Backend dependencies
-│   └── README.md                    # Backend instructions
+│   └── requirements.txt             # Backend dependencies
 │
 ├── frontend/
 │   ├── src/components/SimulationUI.tsx  # Main interface
